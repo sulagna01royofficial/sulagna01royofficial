@@ -101,7 +101,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - Performed Univariate, Bivariate, and Multivariate Model Estimation
 - Used 6-Variate Linear Regression Model with R² = 86.4%
 - Tools: R, Minitab, Excel, Statistical Analysis
-- **Repository:** [Dissertation Project](https://github.com/sulagna01royofficial)
+- **Repository:** https://github.com/sulagna01royofficial/Influence-of-Daily-Routine-on-Semester-Marks.git
 
 ---
 

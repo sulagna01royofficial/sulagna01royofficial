@@ -159,18 +159,6 @@ With a strong foundation in statistics and hands-on experience in data science p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulagna01royofficial&show_icons=true&theme=radical&hide=issues)](https://github.com/sulagna01royofficial)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulagna01royofficial&layout=compact&theme=radical)](https://github.com/sulagna01royofficial)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on data science projects, discussing statistical methodologies, or exploring new insights from data. Feel free to reach out!

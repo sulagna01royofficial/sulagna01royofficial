@@ -77,8 +77,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - Analyzed Gender, AI Tool Usage, Usage Purpose, and Passing Status
 - Created statistical measures: Max/Min/Average Score, Standard Deviation
 - Built visualizations: Area Charts, Treemaps, Pie Charts using Power BI & Excel
-- **Repository:** [Power BI Dashboard Project](https://github.com/sulagna01royofficial)
-
+- **Repository:** https://github.com/sulagna01royofficial/Power-BI-Dashboard-on-Students-Academic-Performance-based-on-AI-Tools-Used.git
 ---
 
 ### 2. 🤖 Predictive Analytics: Students' Academic Performance

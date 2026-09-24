@@ -1,4 +1,4 @@
-# Sulagna Roy
+# SULAGNA ROY
 
 <div align="center">
   

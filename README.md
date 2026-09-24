@@ -89,8 +89,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - **Logistic Regression Model:** Precision = **95%**, Recall = **97%** ✅
 - Compared MLR (Final Score) vs Logistic Regression (Passing Status)
 - Used 21 predictor variables with RStudio, Minitab, PowerPoint
-- **Repository:** [Predictive Analytics Project](https://github.com/sulagna01royofficial)
-
+- **Repository:** https://github.com/sulagna01royofficial/Students-Academic-Performance.git
 ---
 
 ### 3. 📈 Influence of Daily Routine on Semester Marks

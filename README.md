@@ -1,7 +1,5 @@
 
-<div align="center">
-
-# SULAGNA ROY
+# SULAGNA ROY 
 
 <div align="center">
   

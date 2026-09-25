@@ -74,10 +74,10 @@ With a strong foundation in statistics and hands-on experience in data science p
 ### 1.🏠 Prediction of Median Home Value: Linear Regression vs. Decision Tree
 **Duration:** Jul'26 - Aug'26 | **Type:** Group Project
 
-Compared MLR and Decision Tree models on Boston Housing dataset
-Achieved R² = 0.883 (Tree) vs 0.669 (Linear Regression) – 65% error reduction
-Exploratory analysis with correlation heatmap, distribution plots, and multicollinearity assessment
-Tools: Python, Scikit-learn, Pandas, Matplotlib
+- Compared MLR and Decision Tree models on Boston Housing dataset
+- Achieved R² = 0.883 (Tree) vs 0.669 (Linear Regression) – 65% error reduction
+- Exploratory analysis with correlation heatmap, distribution plots, and multicollinearity assessment
+- Tools: Python, Scikit-learn, Pandas, Matplotlib
 **Repository:** https://github.com/sulagna01royofficial/A-Comparative-Study-on-the-Boston-Housing-Dataset.git
 
 ### 2. 📊 Power BI Dashboard: Students' Academic Performance Based on AI Tools Used

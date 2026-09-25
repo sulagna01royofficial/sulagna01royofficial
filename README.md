@@ -71,7 +71,15 @@ With a strong foundation in statistics and hands-on experience in data science p
 
 ## 💼 Featured Projects
 
-### 1. 📊 Power BI Dashboard: Students' Academic Performance Based on AI Tools Used
+### 1.🏠 Prediction of Median Home Value: Linear Regression vs. Decision Tree
+**Duration:** Jul'26 - Aug'26 | **Type:** Group Project
+
+Compared MLR and Decision Tree models on Boston Housing dataset
+Achieved R² = 0.883 (Tree) vs 0.669 (Linear Regression) – 65% error reduction
+Exploratory analysis with correlation heatmap, distribution plots, and multicollinearity assessment
+Tools: Python, Scikit-learn, Pandas, Matplotlib
+
+### 2. 📊 Power BI Dashboard: Students' Academic Performance Based on AI Tools Used
 **Duration:** Jun 2026 - Jul 2026 | **Type:** Self Project
 
 - Developed interactive Power BI dashboard analyzing 8,000 students with 23 variables
@@ -81,7 +89,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - **Repository:** https://github.com/sulagna01royofficial/Power-BI-Dashboard-on-Students-Academic-Performance-based-on-AI-Tools-Used.git
 ---
 
-### 2. 🤖 Predictive Analytics: Students' Academic Performance
+### 3. 🤖 Predictive Analytics: Students' Academic Performance
 **Duration:** Jan 2026 - Jun 2026 | **Type:** M.Sc. Semester 2 Course Project
 
 - Analyzed synthetic dataset: 8,000 students, 23 variables, Class 10-3rd year coverage
@@ -92,7 +100,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - **Repository:** https://github.com/sulagna01royofficial/Students-Academic-Performance.git
 ---
 
-### 3. 📈 Influence of Daily Routine on Semester Marks
+### 4. 📈 Influence of Daily Routine on Semester Marks
 **Duration:** Sep 2024 - Apr 2025 | **Type:** B.Sc. Statistics Dissertation
 
 - Conducted undergraduate final-year dissertation analysis

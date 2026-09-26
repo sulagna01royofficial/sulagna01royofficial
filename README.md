@@ -162,9 +162,9 @@ With a strong foundation in statistics and hands-on experience in data science p
 
 ## 🎪 Beyond Data Science
 
-🏊 **Swimming** - Represented Kolkata as a Butterfly Swimmer for several years 
-🎨 **Fine Arts** - Completed Chitra Visharad (5-year Diploma) under Pracheen Kala Kendra, Chandigarh 
-💃 **Bharatnatyam Dance** - Pursuing Bhushan (3rd Year Course) under Pracheen Kala Kendra, Chandigarh  
+- 🏊 **Swimming** - Represented Kolkata as a Butterfly Swimmer for several years 
+- 🎨 **Fine Arts** - Completed Chitra Visharad (5-year Diploma) under Pracheen Kala Kendra, Chandigarh 
+- 💃 **Bharatnatyam Dance** - Pursuing Bhushan (3rd Year Course) under Pracheen Kala Kendra, Chandigarh  
 
 ---
 

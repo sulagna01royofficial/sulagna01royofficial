@@ -7,7 +7,7 @@
 
 <div align="center">
   
-**📊 Data Science | 📈 Statistics | 🤖 Predictive Analytics**
+**📊 Data Science | 📈 Statistics | 🤖 Predictive Analytics | 🧠 Machine Learning**
 
 *Final Year M.Sc. Data Science Student @ St. Xavier's College (Autonomous), Kolkata*
 

@@ -73,7 +73,17 @@ With a strong foundation in statistics and hands-on experience in data science p
 
 ## 💼 Featured Projects
 
-### 1.🏠 Prediction of Median Home Value: Linear Regression vs. Decision Tree
+## 1. 📊 Data Analysis Tool: Python GUI for Data Cleaning, Reporting & Visualization
+
+**Duration:** Sep'26 - Oct'26 | **Type:** Self Project
+
+- Built a desktop application with Tkinter that loads CSV/Excel files and generates grouped summary reports without writing code
+- Implemented one-click data cleaning, custom Group By, Aggregation, and Value Column selection with in-app report preview
+- Added a chart builder with in-app preview and export of reports (Excel/CSV) and charts
+- Tools: Python, Tkinter, Pandas, Matplotlib
+- **Repository:** https://github.com/sulagna01royofficial/Python-Project-Data-Analysis-Tool
+
+### 2.🏠 Prediction of Median Home Value: Linear Regression vs. Decision Tree
 **Duration:** Jul'26 - Aug'26 | **Type:** Group Project
 
 - Compared MLR and Decision Tree models on Boston Housing dataset
@@ -82,7 +92,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - Tools: Python, Scikit-learn, Pandas, Matplotlib
 - **Repository:** https://github.com/sulagna01royofficial/A-Comparative-Study-on-the-Boston-Housing-Dataset.git
 
-### 2. 📊 Power BI Dashboard: Students' Academic Performance Based on AI Tools Used
+### 3. 📊 Power BI Dashboard: Students' Academic Performance Based on AI Tools Used
 **Duration:** Jun 2026 - Jul 2026 | **Type:** Self Project
 
 - Developed interactive Power BI dashboard analyzing 8,000 students with 23 variables
@@ -92,7 +102,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - **Repository:** https://github.com/sulagna01royofficial/Power-BI-Dashboard-on-Students-Academic-Performance-based-on-AI-Tools-Used.git
 ---
 
-### 3. 🤖 Predictive Analytics: Students' Academic Performance
+### 4. 🤖 Predictive Analytics: Students' Academic Performance
 **Duration:** Jan 2026 - Jun 2026 | **Type:** M.Sc. Semester 2 Course Project
 
 - Analyzed synthetic dataset: 8,000 students, 23 variables, Class 10-3rd year coverage
@@ -103,7 +113,7 @@ With a strong foundation in statistics and hands-on experience in data science p
 - **Repository:** https://github.com/sulagna01royofficial/Students-Academic-Performance.git
 ---
 
-### 4. 📈 Influence of Daily Routine on Semester Marks
+### 5. 📈 Influence of Daily Routine on Semester Marks
 **Duration:** Sep 2024 - Apr 2025 | **Type:** B.Sc. Statistics Dissertation
 
 - Conducted undergraduate final-year dissertation analysis

@@ -23,7 +23,7 @@
 
 ## 🎯 About Me
 
-I'm a data enthusiast passionate about transforming raw data into actionable insights. Currently pursuing my **M.Sc. in Data Science**, I specialize in statistical analysis, predictive modeling, and business intelligence. 
+I'm a data enthusiast passionate about transforming raw data into actionable insights. Currently pursuing my **M.Sc. in Data Science**, I specialize in statistical analysis, predictive modelling, and business intelligence. 
 
 With a strong foundation in statistics and hands-on experience in data science projects, I love exploring patterns in data and building models that solve real-world problems. From regression analysis to interactive dashboards, I'm committed to leveraging data for informed decision-making.
 
